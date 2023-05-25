@@ -21,10 +21,10 @@ To start using this project, follow the steps below:
    - Follow the instructions to create the app in just two clicks.
     ![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/cb51c9a0-4772-4920-8088-07cf708c9dc7)
    - Make sure to mark the access scopes related to products in your Shopify store.
-    ![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/b41556be-29bf-4c20-b57a-b60c8a25ac1f)
-    ![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/1c7af64e-f3b5-4b58-b42b-8f2d9a6d64c0)
+   - ![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/b41556be-29bf-4c20-b57a-b60c8a25ac1f)
+   - ![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/1c7af64e-f3b5-4b58-b42b-8f2d9a6d64c0)
    - Find the access token in the app settings.
-    ![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/fbd11594-a2b5-46f9-b8c0-4a7b4ad670fd)
+   - ![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/fbd11594-a2b5-46f9-b8c0-4a7b4ad670fd)
 3. Create an `.env` file in the project root directory with the following variables:
 
 Replace `your_shopify_app_access_token` with your Shopify app access token and `your_shopify_domain` with your Shopify domain. If you're running the project locally, keep `PUBLIC_URL` as `http://localhost:3000`.

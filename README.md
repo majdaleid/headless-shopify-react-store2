@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Headless Shopify React Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project allows you to easily develop a headless Shopify front store using React.js. It utilizes various technologies and packages including React.js, Styled Components, Context, React Hooks, React Router DOM, React Icons, and the Shopify Buy SDK.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+To start using this project, follow the steps below:
 
-### `npm start`
+1. Clone the repository.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Create a development app in your Shopify store using the provided links.
+   - Follow the instructions to create the app in just two clicks.
+   - Make sure to mark the access scopes related to products in your Shopify store.
+   - Find the access token in the app settings.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Create an `.env` file in the project root directory with the following variables:
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Replace `your_shopify_app_access_token` with your Shopify app access token and `your_shopify_domain` with your Shopify domain. If you're running the project locally, keep `PUBLIC_URL` as `http://localhost:3000`.
 
-### `npm run build`
+4. Install the project dependencies by running `npm install`.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. Start the development server by running `npm run start`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The project will launch and be accessible at the specified `PUBLIC_URL`. The store is responsive, and you can select products, add them to the cart, and proceed to checkout. Clicking on checkout will automatically redirect you to your Shopify store with the real product information.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `npm run eject`
+Here are some screenshots of the project:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/cb51c9a0-4772-4920-8088-07cf708c9dc7)
+#![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/b41556be-29bf-4c20-b57a-b60c8a25ac1f)
+mark the access scropes which are related to the products 
+![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/1c7af64e-f3b5-4b58-b42b-8f2d9a6d64c0)
+and here you will find the access token 
+![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/fbd11594-a2b5-46f9-b8c0-4a7b4ad670fd)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/6d92f349-18c6-4ad3-b01c-9b59d08e21ef)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/431afdf0-1393-4dfd-80d9-665eff238884)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/60ff42f5-f4be-428e-9f92-ef1493d9b58c)
 
-## Learn More
+![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/9f3b0245-e763-41f8-a4bd-5d905056f6db)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/aa583873-20c2-496b-b26d-e68eed2d2bf0)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Next Steps
 
-### Code Splitting
+For search engine optimization and additional features, consider developing the project using Next.js.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Feel free to customize and enhance the project as per your requirements.
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

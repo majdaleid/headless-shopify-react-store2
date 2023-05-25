@@ -39,16 +39,14 @@ The project will launch and be accessible at the specified `PUBLIC_URL`. The sto
 
 Here are some screenshots of the project:
 
+![Webaufnahme_25-5-2023_231647_localhost](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/4386929b-8d71-419f-8c79-76525897f1ac)
 
-![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/6d92f349-18c6-4ad3-b01c-9b59d08e21ef)
+![Webaufnahme_25-5-2023_231859_localhost](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/a0711f47-77b5-4424-8862-09afd57e31b6)
 
-![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/431afdf0-1393-4dfd-80d9-665eff238884)
+![Webaufnahme_25-5-2023_232031_localhost](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/b094f398-e4b1-49ca-b181-41afce05ae16)
 
-![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/60ff42f5-f4be-428e-9f92-ef1493d9b58c)
+![Webaufnahme_25-5-2023_232155_localhost](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/a9050e8d-6835-4d0e-af06-7af50d5f4f4f)
 
-![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/9f3b0245-e763-41f8-a4bd-5d905056f6db)
-
-![image](https://github.com/majdaleid/headless-shopify-react-store2/assets/34122653/aa583873-20c2-496b-b26d-e68eed2d2bf0)
 
 ## Next Steps
 
